@@ -1,0 +1,21 @@
+h1 {
+	font-size: 25px;
+}
+
+h2 {
+	color: blue;
+}
+
+#kalimat-awal {
+	color: red;
+}
+
+#kalimat-dua {
+	color: blue;
+}
+
+
+.content {
+	background-color: grey;
+	height: 200px;	
+}
